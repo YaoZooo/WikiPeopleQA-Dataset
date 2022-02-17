@@ -1,2 +1,2 @@
 # WikiPeopleQA-Dataset
-This is a dataset about question answering on n-ary knowledge graphs.
+This is a dataset about question answering over n-ary knowledge graphs.
